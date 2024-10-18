@@ -101,6 +101,6 @@ _爱.过年 (I.CNY) Charity Event, Malaysia_ | *2019*
 
 ## 📈 Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ericazzzzzz&show_icons=true&theme=radical)
 
 ---

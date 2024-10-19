@@ -1,6 +1,6 @@
 # 💼 Welcome to My Data Science Portfolio
 
-Hello! 👋 I am a biomedical science graduate pursuing an MSc in data science and artificial intelligence at Queen Mary University of London.
+Hello! 👋 I am a biomedical science graduate, now pursuing an MSc in data science and artificial intelligence at Queen Mary University of London.
 I'm thrilled to showcase my journey through the world of data science and machine learning. This portfolio is a reflection of my passion for uncovering insights from data and building impactful solutions. 
 
 ## 📫 Contact Information

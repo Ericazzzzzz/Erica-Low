@@ -1,7 +1,6 @@
-# Erica Low - Data Science Portfolio
-
-
-Welcome to my data science portfolio! I am a biomedical science graduate pursuing an MSc in data science and artificial intelligence at Queen Mary University of London. My portfolio showcases my journey in data science and bioinformatics, with projects involving Python, SQL, machine learning, and data visualization. 
+💼 Welcome to My Data Science Portfolio
+Hello! 👋 I am a biomedical science graduate pursuing an MSc in data science and artificial intelligence at Queen Mary University of London.
+I'm thrilled to showcase my journey through the world of data science and machine learning. This portfolio is a reflection of my passion for uncovering insights from data and building impactful solutions. 
 
 ## 📫 Contact Information
 - **Email**: ezwk676@gmail.com

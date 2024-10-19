@@ -29,7 +29,7 @@ _Newcastle University, UK_
 
 ## 💼 Projects
 
-### [Demographic of LSOA in England (Python)]
+### [Demographic of LSOA in England (Python)](https://github.com/Ericazzzzzz/Demographics-of-LSOA-in-England)
 *Sept 2024*  
 - Identified key patterns in population distribution that varied across urban and rural areas.
 - Provided a classification system to aid in demographic studies and urban planning.

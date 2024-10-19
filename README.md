@@ -35,7 +35,7 @@ _Newcastle University, UK_
 - Provided a classification system to aid in demographic studies and urban planning.
 
 ### [Pygame Snake Game (Python)](https://github.com/Ericazzzzzz/Snake-and-Apple-Game)
-**July 2024**
+*July 2024*
 - Developed a fully functional 2D snake game using Pygame, implementing user control, collision detection, scoring system and game-over logic, resulting in a dynamic and interactive gameplay experience. 
 
 

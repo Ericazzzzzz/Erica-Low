@@ -34,11 +34,17 @@ _Newcastle University, UK_
 - Identified key patterns in population distribution that varied across urban and rural areas.
 - Provided a classification system to aid in demographic studies and urban planning.
 
+### [Pygame Snake Game (Python)](https://github.com/Ericazzzzzz/Snake-and-Apple-Game)
+**July 2024**
+- Developed a fully functional 2D snake game using Pygame, implementing user control, collision detection, scoring system and game-over logic, resulting in a dynamic and interactive gameplay experience. 
+
+
 ### [Real Estate Price Prediction Website (Python, Scikit-learn, HTML, CSS, JavaScript, AWS EC2, Nginx)](https://github.com/Ericazzzzzz/Real-Estate-Price-Prediction)
 *June 2024*  
 - Built a predictive model using Scikit-Learn for real estate price prediction.
 - Developed a Flask web app with a responsive front-end to provide real-time predictions based on user inputs.
 - Deployed the application on AWS EC2 using Nginx for efficient web hosting and Python Flask for handling HTTP requests.
+
 
 ### [Predictive Modelling for Agriculture (Python)]
 *February 2024*  

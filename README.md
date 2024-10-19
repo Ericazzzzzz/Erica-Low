@@ -29,6 +29,21 @@ _Newcastle University, UK_
 
 ## 💼 Projects
 
+### [Demographic of LSOA in England (Python)]
+*Sept 2024*  
+- Identified key patterns in population distribution that varied across urban and rural areas.
+- Provided a classification system to aid in demographic studies and urban planning.
+
+### [Real Estate Price Prediction Website (Python, HTML, CSS, JavaScript)]
+*June 2024*  
+- Built a predictive model using Scikit-Learn for real estate price prediction.
+- Developed a Flask web app with a responsive front-end to provide real-time predictions based on user inputs.
+
+### [Predictive Modelling for Agriculture (Python)]
+*February 2024*  
+- Developed a multi-class classification model to predict crop types, avoiding multicollinearity.
+- Evaluated model performance using cross-validation and visualization.
+
 ### [Bank Marketing Database (SQL)]
 *October 2023*  
 - Cleaned data and designed a PostgreSQL database to store information about marketing campaigns run by a bank.
@@ -38,16 +53,6 @@ _Newcastle University, UK_
 *September 2023*  
 - Built a data frame to analyze raw data of population death rates at clinics before handwash obligations.
 - Visualized data using Matplotlib and conducted Bootstrap analysis to assess the impact of handwashing on mortality rates.
-
-### [Predictive Modelling for Agriculture (Python)]
-*February 2024*  
-- Developed a multi-class classification model to predict crop types, avoiding multicollinearity.
-- Evaluated model performance using cross-validation and visualization.
-
-### [Real Estate Price Prediction Website (Python, HTML, CSS, JavaScript)]
-*June 2024*  
-- Built a predictive model using Scikit-Learn for real estate price prediction.
-- Developed a Flask web app with a responsive front-end to provide real-time predictions based on user inputs.
 
 ### [Bioinformatics Project (R)]
 *December 2022*  

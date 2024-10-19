@@ -1,7 +1,7 @@
 # Erica Low - Data Science Portfolio
 
 
-Welcome to my data science portfolio! I am a biomedical science graduate pursuing an MSc in data science and artificial intelligence at Queen Mary University of London. My portfolio showcases my journey in data science and bioinformatics, with projects involving Python, SQL, machine learning, and data visualization.
+Welcome to my data science portfolio! I am a biomedical science graduate pursuing an MSc in data science and artificial intelligence at Queen Mary University of London. My portfolio showcases my journey in data science and bioinformatics, with projects involving Python, SQL, machine learning, and data visualization. 
 
 ## 📫 Contact Information
 - **Email**: ezwk676@gmail.com
@@ -102,11 +102,5 @@ _Newcastle University Medicine Malaysia (NUMed)_ | *2019*
 **Vice Leader**, Food Management Team  
 _爱.过年 (I.CNY) Charity Event, Malaysia_ | *2019*  
 - Managed food supply for charity events and donated excess food to the homeless.
-
----
-
-## 📈 Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ericazzzzzz&show_icons=true&theme=radical)
 
 ---

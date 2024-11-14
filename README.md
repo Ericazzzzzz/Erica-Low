@@ -29,14 +29,16 @@ _Newcastle University, UK_
 
 ## 💼 Projects
 
+### [Storks Deliver Babies (Python)](https://github.com/Ericazzzzzz/Storks-Deliver-Babies)
+*Nov 2024*
+- Improved model accuracy by 20% when shifting from a simple stork-birth correlation model to a multivariate model using population size, GDP per capita, and population density as predictors.
+- Validated model reliability through bootstrapping, demonstrating the limitations of spurious correlations and emphasizing robust model selection for accurate insights.
+
+
 ### [UK Property Price Trends (Python)](https://github.com/Ericazzzzzz/UK-Property-Prices-Trend)
 *Nov 2024*
 - Analyzed 12 months of data from a 36 months property price data across various UK regions, uncovering trends and regional disparities, such as up to 8% declines in certain London areas and up to 6% increases in the West Midlands and North West.
 - Created visualizations to clearly present regional price differences, supporting data-driven decision-making for stakeholders and highlighting areas of potential investment interest.
-
-### [Storks Deliver Babies (Python)](https://github.com/Ericazzzzzz/Storks-Deliver-Babies)
-- Improved model accuracy by 20% when shifting from a simple stork-birth correlation model to a multivariate model using population size, GDP per capita, and population density as predictors.
-- Validated model reliability through bootstrapping, demonstrating the limitations of spurious correlations and emphasizing robust model selection for accurate insights.
 
 ### [Texas Bridges Condition Analysis (Python)](https://github.com/Ericazzzzzz/Texas-Bridges-Condition-Analysis)
 *Oct 2024*

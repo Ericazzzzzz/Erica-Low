@@ -29,6 +29,16 @@ _Newcastle University, UK_
 
 ## 💼 Projects
 
+### [UK Property Price Trends (Python)](https://github.com/Ericazzzzzz/UK-Property-Prices-Trend)
+*Nov 2024*
+- Analyzed 12 months of data from a 36 months property price data across various UK regions, uncovering trends and regional disparities, such as up to 8% declines in certain London areas and up to 6% increases in the West Midlands and North West.
+- Created visualizations to clearly present regional price differences, supporting data-driven decision-making for stakeholders and highlighting areas of potential investment interest.
+
+### [Texas Bridges Condition Analysis (Python)](https://github.com/Ericazzzzzz/Texas-Bridges-Condition-Analysis)
+*Oct 2024*
+- Built and optimized regression models for predicting bridge conditions, enhancing explanatory power by 10% with adding predictors (material and design). 
+- Identified age as the most influential factor, decreasing condition scores by 62.9%, and highlighted material also as a key predictor, aiding future infrastructure maintenance.
+
 ### [Demographic of LSOA in England (Python)](https://github.com/Ericazzzzzz/Demographics-of-LSOA-in-England)
 *Sept 2024*  
 - Identified key patterns in population distribution that varied across urban and rural areas.

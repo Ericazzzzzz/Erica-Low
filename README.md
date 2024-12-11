@@ -29,7 +29,7 @@ _Newcastle University, UK_
 
 ## 💼 Projects
 
-### [Mile End Deceptive Storytelling Detection (Python)]([https://github.com/Ericazzzzzz/Storks-Deliver-Babies](https://github.com/Ericazzzzzz/Mile-End-Deceptive-Storytelling-Detection))
+### [Mile End Deceptive Storytelling Detection (Python)](https://github.com/Ericazzzzzz/Mile-End-Deceptive-Storytelling-Detection)
 *Nov 2024 -Dec 2024*
 - Designed and deployed a full machine learning pipeline using real-world audio data from MLEnd, covering preprocessing, feature extraction, and model evaluation.
 - Engineered audio features (e.g., pitch mean, spectral contrast) using Librosa and trained classifiers including Logistic Regression, SVM, and XGBoost, achieving a highest F1 score of 0.42.

@@ -28,6 +28,9 @@ _Newcastle University, UK_
 ---
 
 ## 💼 Projects
+### [CIFAR-10 Image Classification with Structured CNN Architecture (PyTorch)](https://github.com/Ericazzzzzz/CIFAR-10-Image-Classification/tree/main)
+*March 2025 -April 2025*
+- Built and optimized two convolutional neural networks (CNNs) in PyTorch to classify CIFAR-10 images, improving accuracy from 75% to 92% by engineering custom architectures, applying data augmentation, and implementing cosine annealing learning rate scheduling/
 
 ### [Mile End Deceptive Storytelling Detection (Python)](https://github.com/Ericazzzzzz/Mile-End-Deceptive-Storytelling-Detection)
 *Nov 2024 -Dec 2024*

@@ -32,6 +32,13 @@ _Newcastle University, UK_
 *March 2025 -April 2025*
 - Built and optimized two convolutional neural networks (CNNs) in PyTorch to classify CIFAR-10 images, improving accuracy from 75% to 92% by engineering custom architectures, applying data augmentation, and implementing cosine annealing learning rate scheduling/
 
+
+### [Hybrid Academic Search Engine (Python)](https://github.com/Ericazzzzzz/Hybrid-Academic-Search-Engine)				 	      
+*February 2025- April 2025* 
+- Built a hybrid academic search model by integrating BM25 with transformer-based MiniLM embeddings; achieving a 26% improvement in retrieval precision (73% vs 47%) over BM25 alone.
+- Developed the evaluation framework with LLM-generated query expansion, and collaborated on text pre-processing (NLTK), RESTful API development (FastAPI), and GUI integration (JavaScript, HTML/CSS) to support end-to-end search functionality.
+
+
 ### [Mile End Deceptive Storytelling Detection (Python)](https://github.com/Ericazzzzzz/Mile-End-Deceptive-Storytelling-Detection)
 *Nov 2024 -Dec 2024*
 - Designed and deployed a full machine learning pipeline using real-world audio data from MLEnd, covering preprocessing, feature extraction, and model evaluation.
